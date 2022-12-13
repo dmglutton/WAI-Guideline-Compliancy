@@ -1,1 +1,1 @@
-# WAI Guideline Compliancy
+# Refactoring HTML to Add Accessibility
