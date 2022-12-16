@@ -14,19 +14,7 @@
 
 This project refactors generic HTML into semantic HTML, not only adding to further customobility through individualistic HTML tags but also allowing for e-readers to better understand the document. In addition, an attempt was made to format the site for different viewport sizes, however not all elements were perfectly able to be adjusted.
 
-![Site Langing Page](./site.gif)
 
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Code Refactor Example](#code-refactor-example)
-* [Usage](#usage)
-* [Learning Points](#learning-points)
-* [Author Info](#author-info)
-* [Credits](#credits)
-* [License](#license)
 
 
 ## Code Refactor Example
@@ -129,8 +117,8 @@ n/a
 
 ## Learning Points 
 
-It was really nice to get to apply some of the skills I have learned so far like
-HTML semantics and using the flexbox to adjust content within the viewport
+It was really fun to apply some of the skills I have learned so far like
+HTML semantics and using the flexbox and media query to adjust content within the viewport
 
 
 ## Author Info
