@@ -111,17 +111,8 @@ n/a
 
 ## Learning Points 
 
-
-This is a good place to Explain what you Learned by creating this application.
-This is a great way to remind about all of the Complex Skills you now have.
-If the user is less experienced than you:
-They will be impressed by what you can do!
-
-If the user is more experienced than you:
-They will be impressed by what you can do!
-
-Remember, it is easy to forget exactly how Valuable and Impressive your skills are, as well as How Much You’ve Learned!
-So quantify that here!
+It was really nice to get to apply some of the skills I have learned so far like
+HTML semantics and using the flexbox to adjust content within the viewport
 
 
 ## Author Info
