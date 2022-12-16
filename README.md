@@ -99,6 +99,24 @@ header {
 }
 
 ```
+Added a media screen element to add a navigation menu window at smaller viewport sizes
+
+```css
+@media screen and (max-width: 1020px) {
+    header nav{
+        display:flex;
+        flex-direction:column;
+        height:300px
+    }
+    header nav ul{
+        flex-direction:column;
+        background-color: #2a607c;
+
+    }
+    header nav ul li{
+        height:50px;
+    }
+}
 
 ## Usage 
 
