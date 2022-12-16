@@ -12,8 +12,7 @@
 
 [Visit the Deployed Site]( https://joshmatsumoto.github.io/Code-Refactor-Site/)
 
-This project refactors generic HTML into semantic HTML, not only adding to further customobility through individualistic HTML tags but also allowing for e-readers to better understand the document. In addition, an attempt was made to format the site for different viewport sizes, however not all elements were perfectly able to be adjusted.
-
+This project refactors code to be more accessible through: semantic HTML tags; descriptive text as an alternative for images; a user interface that adjusts for differant screen sizes; and removing code that may be seen as redundant or distracting. The end goal of the project was to, at a minimum, allow for a pleasurable experience if the end user was using an e-reader.
 
 
 
