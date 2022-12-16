@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* specified nav element */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,14 +31,14 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* specified nav element */
 header nav ul {
     list-style-type: none;
     /* set unordered list to appear at the right side of the screen in flexboxx */
     display: flex;
     flex-direction: end;
 }
-
+/* specified nav element */
 header nav ul li {
     margin-left: 25px;
 }
@@ -173,7 +173,22 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* added media screen to adjust navigation menu based on viewport */
+@media screen and (max-width: 1020px) {
+    header nav{
+        display:flex;
+        flex-direction:column;
+        height:300px
+    }
+    header nav ul{
+        flex-direction:column;
+        background-color: #2a607c;
 
+    }
+    header nav ul li{
+        height:50px;
+    }
+}
 
 
 
